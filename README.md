@@ -1,0 +1,2 @@
+# BALL-AND-BEAM-CONTROL-SYSTEM-USING-SIMULINK
+A ball is placed on a beam,  where it is allowed to roll with 1 degree of freedom along the length of the beam. A lever arm is attached to the beam at one end and a servo gear at the other. As the servo gear turns by an angle theta, the lever changes the angle of the beam by alpha. When the angle is changed from the horizontal position, gravity causes the ball to roll along the beam. A controller will be designed for this system so that the ball's position can be manipulated.
